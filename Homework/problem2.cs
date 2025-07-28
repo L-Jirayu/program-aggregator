@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace UdomBet888
+namespace Program_Aggregator
 {
     public partial class problem2 : Form
     {

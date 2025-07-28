@@ -1,6 +1,6 @@
-﻿namespace UdomBet888
+﻿namespace Program_Aggregator
 {
-    partial class Homework
+    partial class main
     {
         /// <summary>
         /// Required designer variable.

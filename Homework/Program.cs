@@ -1,4 +1,4 @@
-namespace UdomBet888
+namespace Program_Aggregator
 {
     internal static class Program
     {
@@ -11,7 +11,7 @@ namespace UdomBet888
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Homework());
+            Application.Run(new main());
         }
     }
 }

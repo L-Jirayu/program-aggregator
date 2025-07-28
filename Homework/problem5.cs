@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace UdomBet888
+namespace Program_Aggregator
 {
     public partial class problem5 : Form
     {

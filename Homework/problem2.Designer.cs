@@ -1,4 +1,4 @@
-﻿namespace UdomBet888
+﻿namespace Program_Aggregator
 {
     partial class problem2
     {

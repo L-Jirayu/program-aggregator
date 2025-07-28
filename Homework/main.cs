@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace UdomBet888
+namespace Program_Aggregator
 {
-    public partial class Homework : Form
+    public partial class main : Form
     {
-        public Homework()
+        public main()
         {
             InitializeComponent();
         }
