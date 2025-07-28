@@ -1,6 +1,6 @@
 ﻿namespace Program_Aggregator
 {
-    partial class main
+    partial class main_program
     {
         /// <summary>
         /// Required designer variable.

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Program_Aggregator
 {
-    public partial class main : Form
+    public partial class main_program : Form
     {
-        public main()
+        public main_program()
         {
             InitializeComponent();
         }
