@@ -267,6 +267,7 @@
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(result);
+            FormBorderStyle = FormBorderStyle.FixedDialog;
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "problem5";

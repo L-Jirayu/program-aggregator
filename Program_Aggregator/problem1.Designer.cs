@@ -123,7 +123,9 @@
             Controls.Add(button1);
             Controls.Add(txtnum2);
             Controls.Add(txtnum1);
+            FormBorderStyle = FormBorderStyle.FixedDialog;
             MaximizeBox = false;
+            MinimizeBox = false;
             Name = "problem1";
             Text = "Condition and Iteration Concept";
             ResumeLayout(false);

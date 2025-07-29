@@ -80,7 +80,9 @@
             Controls.Add(button1);
             Controls.Add(num);
             Controls.Add(label1);
+            FormBorderStyle = FormBorderStyle.FixedDialog;
             MaximizeBox = false;
+            MinimizeBox = false;
             Name = "problem2";
             Text = "Even and Odd Check";
             ResumeLayout(false);

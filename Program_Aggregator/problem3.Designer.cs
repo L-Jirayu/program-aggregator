@@ -79,7 +79,9 @@
             Controls.Add(btnx);
             Controls.Add(txtnum);
             Controls.Add(result);
+            FormBorderStyle = FormBorderStyle.FixedDialog;
             MaximizeBox = false;
+            MinimizeBox = false;
             Name = "problem3";
             Text = "Multiplication Table";
             ResumeLayout(false);

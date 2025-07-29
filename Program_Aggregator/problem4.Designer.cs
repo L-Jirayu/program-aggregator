@@ -92,7 +92,9 @@
             Controls.Add(txtnum);
             Controls.Add(rand);
             Controls.Add(listBox1);
+            FormBorderStyle = FormBorderStyle.FixedDialog;
             MaximizeBox = false;
+            MinimizeBox = false;
             Name = "problem4";
             Text = "Random Number Game";
             ResumeLayout(false);
